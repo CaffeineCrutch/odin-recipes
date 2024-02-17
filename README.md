@@ -24,6 +24,7 @@
     //the text of the link should be the recipe name.
 
 //--ITERATION 3 - RECIPE PAGE CONTENT--
+
     //an image of the finished dish under the h1 heading that you added earlier.
     //Under the imagine, it should have an appropriately sized 'Description'
     //followed by a paragraph or two describing the recipe.
@@ -31,16 +32,18 @@
     //Finally under the ingredients list add a "Steps" heading followed by an ordered list.
 
 //--ITERATION 4 - ADD MORE RECIPES--
+
     //Add two more recipes that follow an identical page structure to the first recipe.
     //Link to the new recipes on the index page. Also, consider putting all the links
     //in an unordered list so they aren't all on one line.
-        // REF CODE BY ME , FOR ME- 
+    // REF CODE BY ME , FOR ME- .
             <ul>
                 <li><a href="recipes/myrecipe001.html">Recipe Title 1</a></li>
                 <li><a href="recipes/myrecipe002.html">Recipe Title 2</a></li>
                 <li><a href="recipes/myrecipe003.html">Recipe Title 3</a></li>
 
 //--ITERATION 5 - PUBLISH TO GITHUB--
+
     //CaffeineCrutch.github.io/odin-recipes
     //Make sure that the main HTML file of the project is 'index.html'
     //Go to github repos > settings > pages > branch - change branch from none to main branch > save.
